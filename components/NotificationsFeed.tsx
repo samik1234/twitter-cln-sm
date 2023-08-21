@@ -31,7 +31,7 @@ const NotificationsFeed = () => {
         </div>
         ))}
     </div>
-   );
+  );
 }
  
 export default NotificationsFeed;
