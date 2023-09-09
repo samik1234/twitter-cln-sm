@@ -29,7 +29,7 @@ const Notifications = () => {
       <Header showBackArrow label="Notifications" />
       <NotificationsFeed />
     </>
-   );
+  );
 }
  
 export default Notifications;
