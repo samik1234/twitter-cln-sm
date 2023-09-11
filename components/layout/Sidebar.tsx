@@ -30,7 +30,7 @@ const Sidebar = () => {
       label: 'Profile',
       href: `/users/${currentUser?.id}`,
       auth: true,
-    },
+    }
   ]
 
   return (
