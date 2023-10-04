@@ -5,7 +5,7 @@ const Search = () => {
     <>
       <Header label="Search box" />
     </>
-   );
+  );
 }
  
 export default Search;
